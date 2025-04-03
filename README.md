@@ -1,1 +1,1 @@
-Answer to exercise 1, $\chi^2$ with binned LS.
+Answer to exercise 1, $\chi^2$ with binned LS and dataset 3.
