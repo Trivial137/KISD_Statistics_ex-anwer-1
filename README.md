@@ -7,7 +7,9 @@
 
 
 ## Overview
-This repository contains the analysis for **Exercise 1**, using a **binned least-squares (LS) method** with a $\chi^2$ statistic. Key modifications include increasing the histogram bin resolution from `nbins = 10` to **`nbins = 25`** to refine sensitivity to distribution features.
+This repository contains the analysis for **Exercise 1**, using a **binned least-squares (LS) method** with a $\chi^2$ statistic.
+
+Key modifications include increasing the histogram bin resolution from `nbins = 10` to **`nbins = 25`** to refine sensitivity to distribution features.
 
 
 ### Code Modifications  
