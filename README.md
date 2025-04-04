@@ -12,8 +12,8 @@ This repository contains the analysis for **Exercise 1**, using a **binned least
 Key modifications include increasing the histogram bin resolution from `nbins = 10` to **`nbins = 25`** to refine sensitivity to distribution features.
 
 
-### Code Modifications Beyond the **Exercise 1** 
+### Code Modifications
 - **Critical Change**:  
   ```python
   nbins = 25  # Increased from 10 for finer resolution
-  maker size=15 # Enhanced visual clarity and overall elegance
+  maker size=15 # Decreased from 12 for visual clarity and overall elegance
