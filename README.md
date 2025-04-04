@@ -1,8 +1,11 @@
 # Answer of Exercise 1
 
 **Author**: Longjie Chen  
+
 **Date**: 4-4-2025 
+
 **Python Version**: 3.13.1  
+
 **Dataset**: Dataset 3 (provided in `raw_data_3_tau5.npy`)  
 
 
