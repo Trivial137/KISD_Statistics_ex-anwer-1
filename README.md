@@ -16,4 +16,4 @@ Key modifications include increasing the histogram bin resolution from `nbins = 
 - **Critical Change**:  
   ```python
   nbins = 25  # Increased from 10 for finer resolution
-  maker size=15 # Decreased from 12 for visual clarity and overall elegance
+  maker size = 15 # Decreased from 25 for visual clarity and overall elegance
