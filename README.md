@@ -1,4 +1,4 @@
-# Exercise 1: Signal-Background Mixture Analysis
+# Answer of Exercise 1
 
 **Author**: Longjie Chen  
 **Date**: 4-4-2025 
